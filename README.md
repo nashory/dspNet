@@ -1,5 +1,5 @@
 # dspNet
 
-The code will be available soon. (after the accepttance of the submitted paper)
+The code will be available soon. (after the acceptance of the submitted paper)
 
 Thank you.
